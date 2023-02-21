@@ -19,6 +19,7 @@ int main(void)
 	}
 	else
 	{
-		ptintf("%d is zero\n" , n);	
+		printf("%d is zero\n" , n);	
 	return (0);
+	}
 }
