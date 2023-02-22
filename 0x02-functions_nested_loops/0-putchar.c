@@ -2,7 +2,7 @@
 
 /**
   *main - this is main function print putchar.
-  *Returns: 0 if sucess
+  *Returns: 0 if (sucess)
   */
 
 int main(void)
