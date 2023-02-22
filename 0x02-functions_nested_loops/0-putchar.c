@@ -4,6 +4,7 @@
   *main - this is main function print putchar
   *returns 0 if sucess
   */
+
 int main(void)
 {
 	char ch[] = "_putchar";
