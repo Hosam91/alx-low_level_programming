@@ -3,7 +3,7 @@
 /**
   *_isalpha - check if the char is alphabet or not
   *@c: char which will be checked
-  *       
+  *
   *Return: i if alph 0 or not
   */
 int _isalpha(int c)
@@ -13,4 +13,4 @@ int _isalpha(int c)
 		return (1);
 	}
 	return (0);
-}	
+}
